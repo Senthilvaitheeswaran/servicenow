@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>MyApplication</name>
+        <order/>
+        <roles>x_123975_myapplica.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-28 16:07:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6e59615db13270084517b1ebf961912</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MyApplication</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyApplication" source="x_123975_myapplica">2ee596d1db13270084517b1ebf9619fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyApplication">2ee596d1db13270084517b1ebf9619fe</sys_scope>
+        <sys_update_name>sys_app_application_f6e59615db13270084517b1ebf961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-28 16:07:38</sys_updated_on>
+        <title>MyApplication</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
